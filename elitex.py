@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 # ACILL X CODE
+# Open source kode 
+# Jangan di ubah kalau mau recode izin dlu
+Ngentot
 # Recode Taik Kucing
 # Versi 2.5
 
