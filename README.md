@@ -22,7 +22,7 @@ $cd Xcode
 
 $git pull
 
-$python Xcode.py
+$python elitex.py
 
 
 ##-> `ACILL X CODE`<-
