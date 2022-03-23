@@ -42,7 +42,7 @@ INGIN BELI SCRIPT PRIVATE ? LANGSUNG WA SAJA
 
 
 
- -> `Wa :` [Click Here](wa.me/6289668363509)<-
+ -> `Wa :` [Click Here](wa.me/+626289668363509.com)<-
 ***
 
 
